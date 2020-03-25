@@ -18,7 +18,7 @@ Visual Studio Onlineの始め方
 
     3.料金体系
         接続している間は課金される
-
+        詳しくは下記から
         https://azure.microsoft.com/ja-jp/pricing/details/visual-studio-online/
 
     4.使ってみて
